@@ -1,7 +1,12 @@
 # Introduction-to-Structured-Query-Language-SQL-
-**Course 2 of the Web Applications for Everybody Specialization**  
-**Instructor**: Dr. Charles Severance (University of Michigan)  
-**Platform**: Coursera
+**Course 2 of the Web Applications for Everybody Specialization**   
+**Instructor**: Dr. Charles Russell Severance (University of Michigan)  
+**Platform**: Coursera  
+**Completed by**: Amrit Singh on February 5, 2024  
+**Time Commitment**: 8–10 hours/week  
+**Grade Achieved**: 100%  
+**Certificate**: [View Certificate →](https://coursera.org/share/088cb16a1853d81a613064fc151ab090)
+
 
 ---
 
